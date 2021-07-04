@@ -1,0 +1,25 @@
+/*HOME*/
+#fwimage1{
+	height:820px;
+}
+.headings{
+	font-size:1.7rem;
+}
+.subline{
+	height: 320px;
+}
+.subline1{
+	height:300px;
+}
+#fwimage2{
+	height: 450px;
+}
+.content{
+	height: 369px;
+}
+.gallery img{
+	width:250px;
+	height: 150px;
+	margin: 10px;
+
+}
